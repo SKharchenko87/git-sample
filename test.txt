@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Hellow GIT!
 
 AAAAAAAAAAAA
 
+=======
+>>>>>>> parent of 4c22669... Secondary commit
 First row
 TEST
