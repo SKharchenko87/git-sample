@@ -1,6 +1,5 @@
 Hellow GIT!
 First row
-Row for marge
 Commit-2
 Commit-4
 Commit-1
